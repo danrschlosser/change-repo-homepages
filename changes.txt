@@ -1,0 +1,6 @@
+# Each line should contain the repo owner/name, and then the desired
+# URL to change it to.
+# Ex:
+# danrschlosser/notebook http://danrschlosser.github.io/notebook/
+#
+# Lines starting with a "#" will be ignored.
